@@ -17,12 +17,12 @@ import "firebase/compat/firestore";
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCS0ubNL47vrylZ_OAGN8anNV5gE9z7X8Y",
-  authDomain: "rn-expo-chat.firebaseapp.com",
-  projectId: "rn-expo-chat",
-  storageBucket: "rn-expo-chat.appspot.com",
-  messagingSenderId: "711031365183",
-  appId: "1:711031365183:web:4480999fff70796eda228a",
+  apiKey: ///
+  authDomain: ///
+  projectId: ///
+  storageBucket: ///
+  messagingSenderId: ///
+  appId: ///
 };
 
 if (firebase.apps.length === 0) {
